@@ -5,6 +5,10 @@ Este projeto foi desenvolvido como parte do Sprint II do curso de Desenvolviment
 ## Protótipo em alta fidelidade
 ### Figma
 - https://www.figma.com/proto/Cx53O7fnfixov20mIFb0iT/Moviesapp?page-id=0%3A1&type=design&node-id=3-46&viewport=612%2C427%2C0.37&t=YrlvjG8HTAlF9Ho6-1&scaling=scale-down&starting-point-node-id=54%3A402&mode=design
+<p align="center">
+  <img src="https://github.com/RaphaelcliffsGarcia/MovieApp/assets/124381295/b2833b4b-da41-45ed-968e-2332e7175c4a.png" alt="Imagem 1" width="300" />
+  <img src="https://github.com/RaphaelcliffsGarcia/MovieApp/assets/124381295/acb6be91-4fec-4c72-9c16-c90824e87f60.png" alt="Imagem 2" width="300" />
+</p>
 ## Tecnologias utilizadas
 
 ### Front end
