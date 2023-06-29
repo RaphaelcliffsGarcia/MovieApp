@@ -1,4 +1,4 @@
-# Projeto : 'Sprint II: Desenvolvimento Front-end Avançado'
+# Projeto : "Sprint II: Desenvolvimento Front-end Avançado"
 
 Este projeto foi desenvolvido como parte do Sprint II do curso de Desenvolvimento Front-end Avançado. Trata-se de um aplicativo que permite aos usuários pesquisar filmes, salvar seus filmes favoritos em uma lista personalizada, visualizar os filmes mais votados e conferir quais filmes estão em cartaz.
 
