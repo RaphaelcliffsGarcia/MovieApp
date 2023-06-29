@@ -11,6 +11,7 @@ Este projeto foi desenvolvido como parte do Sprint II do curso de Desenvolviment
 
 - React Native
 - Expo-cli
+- JavaScript
 
 ## Como executar o projeto
 
